@@ -16,4 +16,8 @@
 
 3/21/25 - Begin Driver.py. This is the final program that utilizes both logger and encryption programs. We create the password function and provide input for inclusion or from the history.
 
-3/22/25 - Work on the encrypt function. Simple utilization of a menu provided me with the most troubles. I did not expect the PC taking a string from a value would be so tiresome. The output had to be saved in the history again too after encryption. Finished history function as well
+3/22/25 - Work on the encrypt function. Simple utilization of a menu provided me with the most troubles. I did not expect the PC taking a string from a value would be so tiresome. The output had to be saved in the history again too after encryption. Finished history function as well.
+
+3/23/25 - Work on decrypt function. Easier after handling the menu utilization issues from the encrypt function. Combining overall both logger and Encryption wasn't as bad as it turned out to be.
+
+3/24/25 - Finish quit function, Do final checks on the program. Submission
