@@ -10,4 +10,8 @@
 
 3/17/25 - Begin Logger.py. Read instructions
 
-3/18/25 - Begin the logger.py code. Biggest issue I had was dealing with the repeated whitespace and not having it lead to crashing or invalid syntax on the output.
+3/18/25 - Begin the logger.py code. Biggest issue I had was dealing with the repeated whitespace and not having it lead to crashing or invalid syntax on the output. 
+
+3/20/25 - FInished logger.py. Final step was ensuring that the logger output matched the date and time format that was provided by the instructions.
+
+3/21/25 - Begin Driver.py. This is the final program that utilizes both logger and encryption programs. We create the password function and provide input for inclusion or from the history.
