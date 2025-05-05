@@ -15,3 +15,5 @@
 3/20/25 - FInished logger.py. Final step was ensuring that the logger output matched the date and time format that was provided by the instructions.
 
 3/21/25 - Begin Driver.py. This is the final program that utilizes both logger and encryption programs. We create the password function and provide input for inclusion or from the history.
+
+3/22/25 - Work on the encrypt function. Simple utilization of a menu provided me with the most troubles. I did not expect the PC taking a string from a value would be so tiresome. The output had to be saved in the history again too after encryption. Finished history function as well
